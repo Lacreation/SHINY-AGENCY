@@ -10,3 +10,9 @@
 La bibliothèque PropTypes vous permet de déclarer le type des props qui est attendu lorsque vous les récupérez dans vos composants, et de déclencher un warning si ça ne correspond pas.
 
 `yarn add prop-types`
+
+## Le CSS in JS
+
+Styled components est une bibliothèque de CSS in JS qui permet de créer du style en appliquant une logique de composants.
+
+`yarn add styled-components`
